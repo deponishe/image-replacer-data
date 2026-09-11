@@ -1,0 +1,129 @@
+{
+  "artem": {
+    "company": "1.jpg",
+    "name": "Артём Павлов",
+    "subtitle": "арт-директор в e‑com",
+    "type": "people"
+  },
+  "asya": {
+    "company": "6.jpg",
+    "name": "Ася Чехова",
+    "subtitle": "маркетолог в FineFood",
+    "type": "people"
+  },
+  "elena": {
+    "company": "6.jpg",
+    "name": "Елена Иванова",
+    "subtitle": "копирайтер в FineFood",
+    "type": "people"
+  },
+  "gleb": {
+    "company": "1.jpg",
+    "name": "Глеб Островский",
+    "subtitle": "продакт-менеджер в Traveltechnologies",
+    "type": "people"
+  },
+  "igor": {
+    "company": "1.jpg",
+    "name": "Игорь Кустов",
+    "subtitle": "дизайнер в e‑com",
+    "type": "people"
+  },
+  "irina": {
+    "company": "1.jpg",
+    "name": "Ирина Кузьмина",
+    "subtitle": "дизайнер бренда в e‑com",
+    "type": "people"
+  },
+  "mark": {
+    "company": "6.jpg",
+    "name": "Марк Купцов",
+    "subtitle": "дизайнер в e‑com",
+    "type": "people"
+  },
+  "mira": {
+    "company": "6.jpg",
+    "name": "Мира Снежина",
+    "subtitle": "маркетолог в FineFood",
+    "type": "people"
+  },
+  "natalia": {
+    "company": "1.jpg",
+    "name": "Наталья Смирнова",
+    "subtitle": "проджект-менеджер в Traveltechnologies",
+    "type": "people"
+  },
+  "nikita": {
+    "company": "1.jpg",
+    "name": "Никита Петров",
+    "subtitle": "аналитик данных в fintech",
+    "type": "people"
+  },
+  "taras": {
+    "company": "6.jpg",
+    "name": "Тарас Рублев",
+    "subtitle": "разработчик в fintech",
+    "type": "people"
+  },
+  "tatyana": {
+    "company": "6.jpg",
+    "name": "Татьяна Сидорова",
+    "subtitle": "маркетолог в FineFood",
+    "type": "people"
+  },
+  "coffee_zoro": {
+    "type": "public",
+    "name": "Coffee.zoro",
+    "subtitle": "20 подписчиков"
+  },
+  "hh": {
+    "type": "public",
+    "name": "hh.ru",
+    "subtitle": "80,9К подписчиков"
+  },
+  "neirabotai": {
+    "type": "public",
+    "name": "Нейработай",
+    "subtitle": "39,9К подписчиков"
+  },
+  "setkavsetke": {
+    "type": "public",
+    "name": "Сетка в сетке",
+    "subtitle": "105,4К подписчиков"
+  },
+  "den": {
+    "type": "public",
+    "name": "Ден делает дизайн",
+    "subtitle": "139 подписчиков"
+  },
+  "hhdesign": {
+    "type": "public",
+    "name": "[хэхэ] дизайн",
+    "subtitle": "2,3К подписчиков"
+  },
+  "resume": {
+    "type": "public",
+    "name": "Рабочее резюме",
+    "subtitle": "2К подписчиков"
+  },
+  "zp": {
+    "type": "public",
+    "name": "Дизайнер, ЗП пришла",
+    "subtitle": "1,2К подписчиков"
+  },
+  "head times": {
+    "type": "public",
+    "name": "Head times",
+    "subtitle": "5К подписчиков"
+  },
+  "naimtaim": {
+    "type": "public",
+    "name": "Найм тайм",
+    "subtitle": "14,9К подписчиков"
+  },
+  "setka_author": {
+    "type": "public",
+    "name": "Сетка для авторов",
+    "subtitle": "66,7К подписчиков"
+  }
+}
